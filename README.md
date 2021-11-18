@@ -1,0 +1,11 @@
+# SKINNY
+- Construction
+	- [SubCells (SC)](https://shashwatj07.github.io/skinny/construction/subcells.html)
+	- [AddConstants (AC)](https://shashwatj07.github.io/skinny/construction/addconstants.html)
+	- [AddRoundTweakey (ART)](https://shashwatj07.github.io/skinny/construction/addroundtweakey.html)
+	- [ShiftRows (SR)](https://shashwatj07.github.io/skinny/construction/shiftrows.html)
+	- [MixColumns (MC)](https://shashwatj07.github.io/skinny/construction/mixcolumns.html)
+- SBox
+	- [DDT](https://shashwatj07.github.io/skinny/sbox/DDT.html)
+	- [LAT](https://shashwatj07.github.io/skinny/sbox/LAT.html)
+	- [Analysis](https://shashwatj07.github.io/skinny/sbox/analysis.html)
