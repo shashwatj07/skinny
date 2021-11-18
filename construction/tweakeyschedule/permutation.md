@@ -13,5 +13,5 @@ to the following reordering of the matrix cells, where indices are taken row-wis
 ![permutation](../../images/tweakeyupdateT1.jpg)
 
 and for T2 and T3 a LFSR is also applied at last.
-## For TK2 and TK#
+## For TK2 and TK
 ![permutation](../../images/tweakeyscheduleT2.jpg)
