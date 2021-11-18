@@ -1,8 +1,8 @@
 # SKINNY
 - [Construction](https://shashwatj07.github.io/skinny/construction.html)
-	- [Tweakey Schedule](https://shashwatj07.github.io/skinny/tweakeyschedule.html)
-		- [Permutation](https://shashwatj07.github.io/skinny/tweakeyschedule/permutation.html)
-		- [LFSR](https://shashwatj07.github.io/skinny/tweakeyschedule/lfsr.html)
+	- [Tweakey Schedule](https://shashwatj07.github.io/skinny/construction/tweakeyschedule.html)
+		- [Permutation](https://shashwatj07.github.io/skinny/construction/tweakeyschedule/permutation.html)
+		- [LFSR](https://shashwatj07.github.io/skinnyconstruction//tweakeyschedule/lfsr.html)
 	- [SubCells (SC)](https://shashwatj07.github.io/skinny/construction/subcells.html)
 	- [AddConstants (AC)](https://shashwatj07.github.io/skinny/construction/addconstants.html)
 	- [AddRoundTweakey (ART)](https://shashwatj07.github.io/skinny/construction/addroundtweakey.html)
