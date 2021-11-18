@@ -1,0 +1,1 @@
+![Demo screen shot](./images/mixedcolumnimage3.jpg)
