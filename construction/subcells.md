@@ -6,7 +6,7 @@ The values in the Substitution box are in hexadecimal notation.<br>
 
 
 <br>
-![This is an image of implementation of Sbox](https://github.com/shashwatj07/skinny/tree/master/images/subcells.png)
+![This is an image of implementation of Sbox](https://github.com/shashwatj07/skinny/tree/master/images/subcells.png?raw=true)
 <br>
 
  SBox_8bit [256] =<br>
