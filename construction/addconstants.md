@@ -27,5 +27,5 @@ Then bits are arranged in a array of 4x4. depending on the size of bits in a cel
 The round constants are combined with the state, respecting array positioning, using
 bitwise exclusive-or
 
-![XOR with round constant](..\images\xorwithroundconstant.jpg)
+![XOR with round constant](../images/xorwithroundconstant.jpg)
 
