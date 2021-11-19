@@ -5,9 +5,6 @@ function is defined as<br />
 
 The six bits are initialized 0 and are updated before use in a given round <br />
 ## Table for round constants for each round
-<!-- |  Round |1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62
-| :---:  |
-|constant| -->
 | Rounds |Constants|
 | :---:  |  :---:  |
 | 1 -16 | 01,03,07,0F,1F,3E,3D,3B,37,2F,1E,3C,39,33,27,0E |
@@ -18,10 +15,10 @@ The six bits are initialized 0 and are updated before use in a given round <br /
 
 Then bits are arranged in a array of 4x4. depending on the size of bits in a cell of state matrix as shown in the below diagrams.
 ### For s = 4
-![4x4 array from the affine 6 bits](../images/arrayformationfor4.jpg)
+![4x4 array from the affine 6 bits for S = 4](../images/arrayformationfor4.jpg)
 
 ### For s = 8
-![4x4 array from the affine 6 bits](../images/arrayformationfor8.jpg)
+![4x4 array from the affine 6 bits for S = 8](../images/arrayformationfor8.jpg)
 
 
 The round constants are combined with the state, respecting array positioning, using
