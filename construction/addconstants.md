@@ -1,6 +1,6 @@
 A 6-bit affine LFSR, whose state is denoted (rc5, rc4, rc3, rc2, rc1, rc0)
 (with rc0 being the least significant bit), is used to generate round constants. Its update
-function is defined as:
+function is defined as<br />
 ![update function of the LFSR used in generating round constant](../images/lfsrroundconstant.jpg)
 
 The six bits are initialized 0 and are updated before use in a given round <br />
