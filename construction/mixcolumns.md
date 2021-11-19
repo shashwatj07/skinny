@@ -1,4 +1,5 @@
-for this step we are multiplying the state matrix with a special matrix
+# MixColumns
+For this step we are multiplying the state matrix with a special matrix
 
  | 1 | 0 | 1 | 1 |
  |---|---|---|---|
