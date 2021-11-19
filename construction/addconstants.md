@@ -1,7 +1,7 @@
 A 6-bit affine LFSR, whose state is denoted (rc5, rc4, rc3, rc2, rc1, rc0)
 (with rc0 being the least significant bit), is used to generate round constants. Its update
 function is defined as:
-![update function of the LFSR used in generating round constant](..\images\lfsrroundconstant.jpg)
+![update function of the LFSR used in generating round constant](../images/lfsrroundconstant.jpg)
 
 The six bits are initialized 0 and are updated before use in a given round <br />
 ## Table for round constants for each round
@@ -18,10 +18,10 @@ The six bits are initialized 0 and are updated before use in a given round <br /
 
 Then bits are arranged in a array of 4x4. depending on the size of bits in a cell of state matrix as shown in the below diagrams.
 ### For s = 4
-![4x4 array from the affine 6 bits](..\images\arrayformationfor4.jpg)
+![4x4 array from the affine 6 bits](../images/arrayformationfor4.jpg)
 
 ### For s = 8
-![4x4 array from the affine 6 bits](..\images\arrayformationfor8.jpg)
+![4x4 array from the affine 6 bits](../images/arrayformationfor8.jpg)
 
 
 The round constants are combined with the state, respecting array positioning, using
