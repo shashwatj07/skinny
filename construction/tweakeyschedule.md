@@ -10,4 +10,4 @@ arrays
 
 #### Complete flow diagram for tweakey schedule
 
-![tweakey schedule](../images/tweakeyschedule.jpg)
+![Flow diagram of tweakey schedule](../images/tweakeyschedule.jpg)

@@ -8,4 +8,4 @@ for this step we are multiplying the state matrix with a special matrix
 
 
 
-![Demo screen shot](../images/mixedcolumnimage3.jpg)
+![Flow diagram of mix column step](../images/mixedcolumnimage3.jpg)
