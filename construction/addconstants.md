@@ -6,7 +6,7 @@ function is defined as<br />
 
 The six bits are initialized 0 and are updated before use in a given round <br />
 ## Table for round constants for each round
-<br />
+you can verify the round constants with calculationg through lfsr
 | Rounds |Constants|
 | :---:  |  :---:  |
 | 1 -16 | 01,03,07,0F,1F,3E,3D,3B,37,2F,1E,3C,39,33,27,0E |
