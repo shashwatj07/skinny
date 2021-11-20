@@ -1,4 +1,4 @@
-### SubCells:-
+# SubCells
 For every box in 4x4 plaintext matrix, the element is replaced by the corresponding entry from the substitution array.
 To every cell of the cipher internal state, an 8-bit Substitution box is applied to it. 
 e.g, if the state of a box is 2, the SKINNY cipher goes to  Sbox[2] entry and replaces value 2 with it in the matrix i.e. it replaces 2 with 6a.
@@ -7,7 +7,6 @@ The values in the Substitution box are in hexadecimal notation.
 
 
 ![This is an image of implementation of Sbox](../images/subcells.png)
-
 
 We use depending on the block size, a 4-bit Sbox (for 64-bit block) or a 8-bit Sbox (for 128-bit block).
 
@@ -40,3 +39,4 @@ Here is the 8-Bit Substitution Box for the skinny Cipher in array notation.
  0xa2 ,0x18 ,0xae ,0x16 ,0x1f ,0xa7 ,0x17 ,0xaf ,0x01 ,0xb2 ,0x0e ,0xbe ,0x07 ,0xb7 ,0x0f ,0xbf ,
  0xe2 ,0xca ,0xee ,0xc6 ,0xcf ,0xe7 ,0xc7 ,0xef ,0xd2 ,0xf2 ,0xde ,0xfe ,0xd7 ,0xf7 ,0xdf ,0xff }
  ```
+
