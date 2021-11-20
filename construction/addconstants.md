@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 # AddConstants
->>>>>>> 41614a74848abcbc3d2981942d9e1b3494d59cef
 A 6-bit affine LFSR, whose state is denoted (rc5, rc4, rc3, rc2, rc1, rc0)
 (with rc0 being the least significant bit), is used to generate round constants. Its update
 function is defined as<br />
