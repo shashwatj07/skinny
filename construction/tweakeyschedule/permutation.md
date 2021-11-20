@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+# Permutation
+>>>>>>> 41614a74848abcbc3d2981942d9e1b3494d59cef
 A permutation pt is applied to all the TKs
 
 | 0 |  1 | 2 |  3 |  4 |  5 |  6 |  7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
