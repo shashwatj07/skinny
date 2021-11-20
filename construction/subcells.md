@@ -9,6 +9,18 @@ The values in the Substitution box are in hexadecimal notation.
 ![This is an image of implementation of Sbox](../images/subcells.png)
 
 
+We use depending on the block size, a 4-bit Sbox (for 64-bit block) or a 8-bit Sbox (for 128-bit block).
+
+The 4-bit Sbox can also be described with four NOR and four XOR operations, as depicted in below figure.
+
+![This is an image of implementation of Sbox](../images/Sbox-4bit.png)
+
+For 128-bit block, SKINNY uses an 8-bit Sbox S8 that is built in a similar manner as for the 4-bit Sbox S4 described above. The construction is depicted in below figure.
+
+![This is an image of implementation of Sbox](../images/Sbox-8bit.png)
+
+Here is the 8-Bit Substitution Box for the skinny Cipher in array notation.
+
  ```
  SBox_8bit [256] =
  { 0x65 ,0x4c ,0x6a ,0x42 ,0x4b ,0x63 ,0x43 ,0x6b ,0x55 ,0x75 ,0x5a ,0x7a ,0x53 ,0x73 ,0x5b ,0x7b ,
