@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 # AddRoundTweakey
->>>>>>> 41614a74848abcbc3d2981942d9e1b3494d59cef
 The first and second rows of all tweakey arrays are extracted and
 bitwise exclusive-ored to the cipher internal state, respecting the array positioning. <br />
 ### Flow chart for this operation
