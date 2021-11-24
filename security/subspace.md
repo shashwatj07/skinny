@@ -1,0 +1,5 @@
+# Subspace Cryptanalysis
+
+Invariant subspace cryptanalysis involves affine subspaces that remain invariant thorugh the round function. However, the key addition step translates the invariant. Therefore, ciphers that exhibit weak keys such that all round keys are don't get the affine subspace to translate despite key-addition are prone to Subspace Cryptanalysis.  
+In SKINNY, the key-schedule offers a decent level of resistance against such attacks for a large number of rounds. However, large-dimensional subspaces that may propogate invariant through the Sbox might be a problem but it has been shown by the designers that no such subspaces exist.  
+The designers of SKINNY claim to have computed all possible subspaces of more than two dimensions to check if they could be chained to get a subspace characteristic. However, it turned out that chaining works for only a very small number of rounds. Thus, SKINNY's non-trivial key schedule and the use of round-constants in its construction seem to offer sufficient protection against such attacks.  
