@@ -17,4 +17,4 @@ these bounds don't surely influence the differential characteristics,afterall in
 also the developers are researching more on this type of attack and till now it is safe from slide attack.
 
 #### table for showing the lower bounds of the differences we found 
-![Table showing the differences we found](../../images/differencestable.jpg)
+![Table showing the differences we found](../images/differencestable.jpg)
