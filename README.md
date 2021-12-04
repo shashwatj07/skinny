@@ -22,4 +22,4 @@ SKINNY is a lightweight SPN cipher that uses a compact Sbox, a new very sparse d
 	- [Integral Attacks](https://shashwatj07.github.io/skinny/security/integral.html)
 	- [Slide Attacks](https://shashwatj07.github.io/skinny/security/slide.html)
 	- [Subspace Cryptanalysis](https://shashwatj07.github.io/skinny/security/subspace.html)
-	- [Algebrain Attacks](https://shashwatj07.github.io/skinny/security/algebraic.html)
+	- [Algebraic Attacks](https://shashwatj07.github.io/skinny/security/algebraic.html)
